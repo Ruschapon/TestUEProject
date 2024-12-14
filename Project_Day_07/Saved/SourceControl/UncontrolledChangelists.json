@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/651310127/Project_Day_07/Content/ThirdPerson/Blueprints/AI/BP_ThirdPersonCharacter_AI.uasset",
+				"D:/651310127/Project_Day_07/Content/ThirdPerson/Blueprints/AI/BP_AIController.uasset",
+				"D:/651310127/Project_Day_07/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/WY/YE21VUQG3A2NKKN7KSBYZF.uasset",
+				"D:/651310127/Project_Day_07/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/VE/R7PCVBXYXL9900OK3ZUW8H.uasset",
+				"D:/651310127/Project_Day_07/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/L7/4JZ7K10AGJQS7D4SNKRZSA.uasset",
+				"D:/651310127/Project_Day_07/Content/ThirdPerson/Blueprints/AI/BT_AI.uasset",
+				"D:/651310127/Project_Day_07/Content/ThirdPerson/Blueprints/AI/BB_AI.uasset",
+				"D:/651310127/Project_Day_07/Content/ThirdPerson/Blueprints/AI/Task/BTTask_RandomMoveToLocation.uasset",
+				"D:/651310127/Project_Day_07/Content/ThirdPerson/Blueprints/AI/Task/BTTask_ClearBlackboard.uasset",
+				"D:/651310127/Project_Day_07/Content/ThirdPerson/Blueprints/AI/Decorator/BTDecorator_LowHp.uasset",
+				"D:/651310127/Project_Day_07/Content/ThirdPerson/Blueprints/AI/Decorator/BTDecorator_FullHP.uasset",
+				"D:/651310127/Project_Day_07/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/651310127/Project_Day_07/Content/ThirdPerson/Blueprints/AI/Service/BTService_DistanceToAttack.uasset"
+			]
+		}
+	]
+}
